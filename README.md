@@ -1,7 +1,7 @@
 # 📚 Website E-Book Sederhana
 
 <p align="center">
-    <img src="public/favicon.ico" alt="Logo" width="216" height="216" style="border-radius: 50%;">
+    <img src="public/favicon.ico" alt="Logo" width="216" height="216" style="border-radius: 100px; max-width: 100%; height: auto; max-height: 216px;">
 </p>
 
 Sebuah aplikasi web sederhana yang dibangun dengan **Laravel** untuk mengelola dan membaca koleksi e-book. Proyek ini tidak menggunakan sistem otentikasi dan fokus pada fungsionalitas CRUD (Create, Read, Update, Delete) untuk buku dan kategori, dengan antarmuka yang bersih menggunakan **Tailwind CSS**.
